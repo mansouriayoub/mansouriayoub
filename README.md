@@ -2,6 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my Portfolio 😎
-- 🌱 I’m currently learning JavaScript ⚡ intermediate topics 🚀
+- I'm learning backend developement - PHP
+- 🔭 My Portfolio is done 😎
+- 🌱 I’ve learned JavaScript ⚡ intermediate topics 🚀
 - 📫 How to reach me: mansouriayoub@protonmail.com
