@@ -3,6 +3,6 @@
 Here are some ideas to get you started:
 
 - 🌱 I'm learning backend developement - Laravel  🚀
-- 😎 My Portfolio is done => https://mansouriayoub.github.io/
-- 🔭 My stack HTML5 / CSS3(Bootstrap) / JavaScript ⚡ / PHP
+- 😎 Example of Portfolio built with HTML5 / CSS3 / Bootstrap4 / JavaScript => https://mansouriayoub.github.io/
+- 🔭 My stack HTML5 / CSS3(Bootstrap4) / JavaScript ⚡ / PHP7 / Laravel8
 - 📫 How to reach me: mansouriayoub@protonmail.com
