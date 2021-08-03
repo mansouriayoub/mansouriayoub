@@ -8,3 +8,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mansouriayoub@protonmail.com
 
 https://badges.pufler.dev/years/mansouriayoub
+
+[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
