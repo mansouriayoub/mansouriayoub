@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 🔭 My stack HTML5 / CSS3 (+Bootstrap4) / JavaScript (+ReactJS / NextJS) ⚡ / PHP7 (+Laravel8)
 - 📫 How to reach me: mansouriayoub@protonmail.com
 
-https://badges.pufler.dev/years/{mansouriayoub}
+https://badges.pufler.dev/years/mansouriayoub
